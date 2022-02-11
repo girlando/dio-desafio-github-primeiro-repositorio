@@ -1,2 +1,4 @@
-# dio-desafio-github-primeiro-repositorio
-desafio de projeto sobre  Git/Github
+# desafio de projeto da dio 
+repositorio criardo para proje dio
+
+##[sintaxe basica de makerdow](https://www.markdownguide.org/basic-syntax/)
